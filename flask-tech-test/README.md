@@ -1,0 +1,6 @@
+# Flask Tech Test Bootstrap
+
+- Will add extra stuff for deployments
+
+### Good Example of Prod ENV
+https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/
